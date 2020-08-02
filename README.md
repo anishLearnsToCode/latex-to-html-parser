@@ -13,3 +13,23 @@ __Author__: Anish Sachdeva (@anishLearnsToCode)
 
 
 Distributed under the MIT Licence.
+
+## Examples
+### Converting simple mathematical equation sin LaTeX format
+```tex
+x^2
+```
+
+__Output__
+
+x<sup>2</sup>
+
+### Using the Roman Family text
+ ```latex
+$\textrm{II}$
+ ```
+
+__Output__
+````text
+II
+````

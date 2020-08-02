@@ -1,10 +1,4 @@
-// @flow
-/**
- * Provides a single function for parsing an expression using a Parser
- * TODO(emily): Remove this
- */
-
-import Parser from "./Parser";
+import parser from "./Parser";
 import ParseError from "./ParseError";
 
 import type Settings from "./Settings";

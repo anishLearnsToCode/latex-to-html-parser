@@ -1,4 +1,3 @@
-// @flow
 import defineFunction from "../defineFunction";
 import ParseError from "../ParseError";
 
