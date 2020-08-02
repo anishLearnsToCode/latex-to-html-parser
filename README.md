@@ -109,8 +109,35 @@ __Output__ <br>
 | `\prime` | `|
 | `\primecdots` | ... |
 | `\infty` | &infin; |
-| `\neg` | - |
+| `\neg` | &not; |
 | `\wedge` | &and; |
 | `\vee` | &or; |
 | `\supset` | &sup; |
 | `\forall` | &forall; |
+| `\in` | &in; |
+| `\rightarrow` | &rightarrow; |
+| `\leftarrow` | &leftarrow; |
+| `\subset` | &subset; |
+| `\exists` | &exist; |
+| `\notin` | &notin; |
+| `\Rightarrow` | &Rightarrow; |
+| `\cup` | &cup; |
+| `\cap` | &cap; |
+| `\mid` | &mid; |
+| `\Leftrightarrow` | &Leftrightarrow; |
+| `\dot a` | &dot;a |
+| `\hat a` | ^ a |
+| `\bar a` | a&#8407; |
+| `\tilde a` | a&#8407; |
+| `\alpha` | &alpha; |
+| `\beta` | &beta; |
+| `\gamma` | &gamma; |
+| `\delta` | &delta; |
+| `\epsilon` | &epsilon; |
+| `\zeta` | &zeta; |
+| `\eta` | &eta; |
+| `\varepsilon` | &varepsilon; |
+| `\theta` | &theta; |
+| `\iota` | &iota; |
+| `\kappa` | &kappa; |
+| `\vartheta` | &vartheta; |
